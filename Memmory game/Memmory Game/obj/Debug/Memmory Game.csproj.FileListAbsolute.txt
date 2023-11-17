@@ -1,0 +1,48 @@
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\bin\Debug\Memmory Game.exe.config
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\bin\Debug\Memmory Game.exe
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\bin\Debug\Memmory Game.pdb
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.AssemblyReference.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Menu.resources
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Properties.Resources.resources
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.GenerateResource.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.CoreCompileInputs.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory Game.exe
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory Game.pdb
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Game.resources
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\bin\Debug\Memmory Game.exe.config
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\bin\Debug\Memmory Game.exe
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\bin\Debug\Memmory Game.pdb
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.AssemblyReference.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Game.resources
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Menu.resources
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Properties.Resources.resources
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.GenerateResource.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.CoreCompileInputs.cache
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory Game.exe
+C:\Users\rmaks\Desktop\memmory Game\Memmory Game ver 0.0.1\Memmory Game\Memmory Game\obj\Debug\Memmory Game.pdb
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\bin\Debug\Memmory Game.exe.config
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\bin\Debug\Memmory Game.exe
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\bin\Debug\Memmory Game.pdb
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.AssemblyReference.cache
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Game.resources
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Menu.resources
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory_Game.Properties.Resources.resources
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.GenerateResource.cache
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory Game.csproj.CoreCompileInputs.cache
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory Game.exe
+C:\Users\48572\Desktop\63932_BORSCH_Project 3\Memmory Game\Memmory Game\obj\Debug\Memmory Game.pdb
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\bin\Debug\Memmory Game.exe.config
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\bin\Debug\Memmory Game.exe
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\bin\Debug\Memmory Game.pdb
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory Game.csproj.AssemblyReference.cache
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory_Game.Game.resources
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory_Game.Menu.resources
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory_Game.Properties.Resources.resources
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory Game.csproj.GenerateResource.cache
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory Game.csproj.CoreCompileInputs.cache
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory Game.exe
+C:\Users\rmaks\Desktop\ачптстптпт\Memmory Game\obj\Debug\Memmory Game.pdb
